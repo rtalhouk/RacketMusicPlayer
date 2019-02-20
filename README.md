@@ -6,3 +6,5 @@ This simple music player was created using the Racket functional programming lan
 3. Show users how many times they have listened to each song, which is stored in a text file.
 
 The structure of the program depended on the tick of the clock and keyboard inputs from users as the program cycled through four different states. The states are represented by the diagram below:
+
+![alt text](https://github.com/rtalhouk/RacketMusicPlayer/blob/master/Image%202-20-19%20at%2012.26%20PM.jpg)
